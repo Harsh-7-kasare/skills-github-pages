@@ -282,7 +282,6 @@ img {
 </footer>
 
                     
-    
-
+   
 </body>
 </html>
